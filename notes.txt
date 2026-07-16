@@ -1,1 +1,3 @@
 I have started learning git and github.
+
+Git uses snapshots instead of saving every file repeatedly.
