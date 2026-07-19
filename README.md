@@ -1,1 +1,2 @@
 # GitPlayground
+Git Playground Project
